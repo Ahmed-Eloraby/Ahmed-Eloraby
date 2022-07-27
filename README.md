@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahmed-Eloraby
 - 🌱 I’m currently learning how to be a data scientist and software engineer
-- I currentky using github to learn more about version control and to calloborate with my colleagues in our orojrcts 
+- I am currently using github to learn more about version control and to calloborate with my colleagues in our orojrcts 
 - 📫 you can reach me via email: ahmed.eloraby3547@gmail.com
 
 <!---
